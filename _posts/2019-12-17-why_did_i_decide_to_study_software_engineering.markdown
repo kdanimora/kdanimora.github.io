@@ -1,0 +1,22 @@
+---
+layout: post
+title:      "**"Why did I decide to study Software Engineering?"**"
+date:       2019-12-17 19:18:24 +0000
+permalink:  why_did_i_decide_to_study_software_engineering
+---
+
+
+I went to University in Colombia in 2012 to study environmental engineering for 6 months. Had a lecture where I learnt Scratch. Yes, the coding program that teaches children how to start coding and an introduction of what coding is. But by the time I did not understand what this was because we literally work in one project for 6 months and it was not even very well explained. I stopped my studies for personal reasons for about 6 months. Then I studied Law for 2 years, even though I loved it It was not for me. I, then  Came to London in 2015 to study English, I love learning and I did not speak a single bit of English by the beginning of that same summer. 
+Now I have decided that it is time to go back to immerse into the coding experience, and I got to this stage thanks to the publicity that I saw back in February. It actually is thanks to Flatiron's publicity, where it says: " learn how to code", if I'm mistaken I saw it on the tube. 
+I was curious about what coding was, even though I had already studied back in uni I did not know the meaning of this. Then I went to do this research about coding and everything that comes within it. After reading a lot of what coding is, I started watching lots of videos on youtube about programming explain by programmers, their experiences as self-thought engineers, and how they got jobs. 
+
+I found then online boot camps, its when I sing up at freecodecamp.com to start coding and then my love for coding sparked. I remember that what I saw in Uni was something similar, so I found a book called "coding with Scratch-made easy", this books even though is for children, explain what the software that I was using back at  University is and used for. With all of this information, self-studies and research became a process of finding my mentally self-accomplishment and to reach that it became self-explanatory that what I want to do is to prepare myself into starting a new career in coding, programming and most importantly learn.  
+I made a website on Wix.com long ago, since then I wanted to understand what was it made of and what was behind of all these templates that make it easy to make any website on such platform. 
+
+I fell in love with coding and programming. kept doing the freecodecamp.com course but I felt that I needed more, a mentor, a push, and feel part of a community. There have always been questions of what I am not sure about, things that I could not understand and always self-doubts such as Am I enough for this? do I have what It takes? I did not believe in myself most of the time. But then again I fight against those doubts to convince myself that I can do anything if I put my mind to it. Within my research, I decided to have a look at actual programming courses and boot camps.  
+
+The asnwer, it was not that I decided, It became something that I wanted to do. Somenting that has intrigue me, that has had an effect on me that has kept me hooked on a screen trying to find a solution of something. The satisfattion of seeing on the screen something becoming interactive when you write a bunch of code, that excitement it's what took me to the next level of making this that I have been enjoying as a ''hobbie" to an actual carrer and self development. 
+
+I came across with thousands of options in London, but Flatiron has convinced me that is the right place for me because it has great experience teaching people with none experience in programming to people that already know something about coding and prepare people as highly competent professionals. 
+Has a huge community not only in London but worldwide. I feel that I don't need to be scared of learning with my little experience as I feel confident that the community itself and mentors are gonna be there to guide me and give a little push when in need. 
+I have big dreams for my present and future, I think this is the best program for all the diverse learning courses that Flariron have, the sense of community and the love for learning that I have grasped through your website and reviews from students. Also, I feel confident in you thanks to your post-grad support and statistics I feel more confident coming into this community that I did when I went to uni. ur blog post goes here.
