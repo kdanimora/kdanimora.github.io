@@ -1,11 +1,11 @@
 # Site settings
-author: Karen Daniela
-title: 
+author: Karen Daniela H. Mora
+title:  “Why did I decide to study Software Engineering?”
 header-img: img/home-bg.png
 email: kdaniimora@gmail.com
-copyright_name: Karen Daniela
+copyright_name: Karen Daniela H. Mora
 description: > # this means to ignore newlines until "baseurl:"
-  
+  This is why 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: danymora
 github_username:  kdanimora
